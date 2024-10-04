@@ -1,6 +1,6 @@
-<h1>Tutor Sui Miner</h1>
+# Tutor Sui Miner
 
-# Siapin 1.5-2 sui di wallet buat gasfee
+<h3> Siapin 1.5-2 sui di wallet buat gasfee </h3>
 
 # Buka : https://github.dev
 
@@ -24,8 +24,6 @@ node mine.js --fomo --meta --chain=mainnet --phrase="phrase sui"
 # Kalau error hapus dulu
 
 rm rf sui_meta_miner
-
-# Lanjut
 
 curl -s https://deb.nodesource.com/setup_18.x | sudo bash
 
