@@ -29,4 +29,8 @@ sudo apt install nodejs -y
 
 <h2> Done </h2>
 
+# Swap here : https://app.cetus.zone/swap
+
+# SC : 0xa340e3db1332c21f20f5c08bef0fa459e733575f9a7e2f5faca64f72cd5a54f2::fomo::FOMO
+
 # #DYOR #YMMA
