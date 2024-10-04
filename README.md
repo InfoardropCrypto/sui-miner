@@ -2,7 +2,7 @@
 
 <h3 style="color:skyblue"> Siapin 1.5-2 sui di new wallet buat gasfee </h3>
 
-<h3> Buka : https://github.dev </h3>
+<h3> Buka : https://github.com/codespaces </h3>
 
 <h3> Code : </h3>
 
