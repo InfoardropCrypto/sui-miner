@@ -1,4 +1,4 @@
-# Tutor Sui Miner
+# Sui miner get $FOMO
 
 <h3 style="color:skyblue"> Siapin 1.5-2 sui di wallet buat gasfee </h3>
 
