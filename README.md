@@ -1,6 +1,6 @@
 # Sui miner get $FOMO
 
-<h3 style="color:skyblue"> Siapin 1.5-2 sui di wallet buat gasfee </h3>
+<h3 style="color:skyblue"> Siapin 1.5-2 sui di new wallet buat gasfee </h3>
 
 <h3> Buka : https://github.dev </h3>
 
@@ -29,4 +29,4 @@ sudo apt install nodejs -y
 
 <h2> Done </h2>
 
-# DYOR
+# #DYOR #YMMA
