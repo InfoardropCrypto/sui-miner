@@ -7,7 +7,9 @@
 <h3> Code : </h3>
 
 git clone https://github.com/suidouble/sui_meta_miner.git
-cd sui_meta_miner
+
+cd sui_meta_miner 
+
 npm install
 
 <h3> Ubah sui phrase </h3>
